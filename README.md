@@ -29,5 +29,5 @@ pip install ultralytics opencv-python torch torchvision
 ### 3: run webcam
 python .\detect.py
 
-##👨‍💻 Author
+## 👨‍💻 Author
 gmail: phamviethuy131225@gmail.com
