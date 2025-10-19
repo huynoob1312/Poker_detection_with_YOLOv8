@@ -31,3 +31,14 @@ python .\detect.py
 
 ## 👨‍💻 Author
 gmail: phamviethuy131225@gmail.com
+
+## 🙏 Credits
+This project was inspired by the amazing work of the [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) team.  
+It also draws ideas from several open-source tutorials and community projects on real-time object detection.  
+
+If you used any specific dataset (for example, a Roboflow dataset), you can add:
+> Dataset: [Playing Cards Computer Vision Model – Roboflow](https://universe.roboflow.com/augmented-startups/playing-cards-ow27d)
+
+Idea and implementation were based on the GitHub repository [github](https://github.com/TruongTanNghia/YOLOV8_Object-Detection/tree/main) — which provided the initial concept for poker card detection.  
+
+Special thanks to the open-source community for making AI development accessible and fun 🎴
