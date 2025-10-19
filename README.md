@@ -39,6 +39,6 @@ It also draws ideas from several open-source tutorials and community projects on
 If you used any specific dataset (for example, a Roboflow dataset), you can add:
 > Dataset: [Playing Cards Computer Vision Model – Roboflow](https://universe.roboflow.com/augmented-startups/playing-cards-ow27d)
 
-Idea and implementation were based on the GitHub repository [github](https://github.com/TruongTanNghia/YOLOV8_Object-Detection/tree/main) — which provided the initial concept for poker card detection.  
+Idea and implementation were based on the GitHub repository [github](https://github.com/TruongTanNghia/YOLOV8_Object-Detection) — which provided the initial concept for poker card detection.  
 
 Special thanks to the open-source community for making AI development accessible and fun 🎴
