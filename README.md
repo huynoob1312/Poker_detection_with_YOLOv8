@@ -10,7 +10,7 @@ Built with **Python, OpenCV, and Ultralytics YOLO** — perfect for learning or 
 ✅ Easy to retrain or extend for other card types
 
 ## 🧩 Project Structure
-Poker_detection_with_YOLOv8/
+Poker_detection_with_YOLOv8/ 
 ├── poker_rank.py # Poker hand ranking logic
 ├── test_webcam.py # Real-time detection using webcam
 ├── poker.pt # Trained YOLOv8 model
@@ -28,3 +28,6 @@ pip install ultralytics opencv-python torch torchvision
 
 ### 3: run webcam
 python .\detect.py
+
+##👨‍💻 Author
+gmail: phamviethuy131225@gmail.com
